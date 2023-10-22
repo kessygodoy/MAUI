@@ -718,12 +718,6 @@
     <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
-      <PackagePath>OpenSans-Regular.ttf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
-      <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -862,20 +856,20 @@
     <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_green.scale-100.png">
+      <PackagePath>logo_green.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_green.scale-125.png">
+      <PackagePath>logo_green.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_green.scale-150.png">
+      <PackagePath>logo_green.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_green.scale-200.png">
+      <PackagePath>logo_green.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\MAUI\Projetos MAUI\AppNumeroDaSorte\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_green.scale-400.png">
+      <PackagePath>logo_green.scale-400.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
